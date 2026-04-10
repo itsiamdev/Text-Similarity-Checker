@@ -3,7 +3,7 @@
 A simple web application to calculate the similarity percentage between two input texts. 📊
 
 ## 🌐 Live Demo
-Check it out here: [https://iam269.github.io/Text-Similarity-Checker/](https://iam269.github.io/Text-Similarity-Checker/)
+Check it out here: [https://itsiamdev.github.io/Text-Similarity-Checker/](https://itsiamdev.github.io/Text-Similarity-Checker/)
 
 ## ✨ Features
 - 🔤 Enter two texts to compare
